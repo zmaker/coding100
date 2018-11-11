@@ -8,7 +8,7 @@ void setup(){
 
 void draw(){
   rect(x, height/2, 10,10);
-  if (x > width) {
+  if ((x > width) || (x < 0)) {
     d = -d;
   }
   x = x + d;
