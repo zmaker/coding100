@@ -1,4 +1,4 @@
-//disegba linee continuee che seguono il mouse
+//disegna linee continue che seguono il mouse
 
 void setup() {
      size(480, 120);
