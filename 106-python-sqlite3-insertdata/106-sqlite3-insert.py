@@ -1,14 +1,27 @@
 import sqlite3
 
-#apro o creo
 conn = sqlite3.connect("dati.db")
+cursor = conn.cursor()
 
-#creo una tabella
-'''
-sql = "create table coffee (" \
-      "id int primary key," \
-      "nome varchar(20) not null," \
-      "peso float default 0 );"
+fine_inserimento = False
 
-conn.execute(sql)
+while not fine_inserimento:
+    cid = input("id: ")
+    nome = input("nome: ")
+    peso = input("peso: ")
+    
+    sql = f"insert into coffee "\
+          f"(id, nome, peso) values "\
+          f"({cid},'{nome}',{peso})"
+    print(sql)
+    cursor.execute(sql)
+    conn.commit()
+    
+    ans = input("ancora? (s/n) :")
+    if not (ans == 's'):
+        fine_inserimento = True
+
+
 conn.close()
+
+
