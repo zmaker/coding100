@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(24,9): warning C4013: 'readinp' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(20,7): warning C4101: 'j': variabile locale senza riferimenti
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(38,6): error C2371: 'readinp': ridefinizione. Tipi di base differenti.
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(42,8): error C2143: errore di sintassi: ')' mancante prima di 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(42,8): error C2143: errore di sintassi: '{' mancante prima di 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(42,8): error C2059: errore di sintassi: 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(42,19): error C2059: errore di sintassi: ')'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(43,9): error C2143: errore di sintassi: ')' mancante prima di 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(43,9): error C2143: errore di sintassi: '{' mancante prima di 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(43,9): error C2059: errore di sintassi: 'stringa'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(43,24): error C2059: errore di sintassi: ')'
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\C002_Variabili2\main.c(44,1): error C2059: errore di sintassi: '}'

@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\P201-if\main.c(9,18): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  1 of 8 functions (12.5%) were compiled, the rest were copied from previous compilation.
+  Generazione codice terminata
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  P201-if.vcxproj -> C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\Release\P201-if.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\P199-rand\main.c(6,18): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  P199-rand.vcxproj -> C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\Release\P199-rand.exe

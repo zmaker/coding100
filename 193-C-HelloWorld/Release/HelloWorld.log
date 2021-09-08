@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\HelloWorld\main.c(48,18): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\HelloWorld\main.c(64,18): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  4 of 8 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  HelloWorld.vcxproj -> C:\Users\paolo\Documents\ProgettiVisualStudio\CorsoC\Release\HelloWorld.exe
